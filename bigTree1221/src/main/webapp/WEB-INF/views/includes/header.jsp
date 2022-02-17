@@ -29,7 +29,7 @@
 <header>
 <nav class="navbar navbar-light bg-light ">
 	<div class="text-title" style="float:none; margin:0 auto">
-  		<a class="navbar-brand" href="/board/list"><h1 class="title1">Big Tree</h1><h1 class=title2> Community</h1></a>
+  		<a class="navbar-brand" href="/board/list"><h1 class="title1">Big Tree</h1><h1 class=title2> Community</h1></a> <!-- 02/18 수정 -->
   	</div>
  <div>
         <ul class="navbar-nav">
